@@ -184,7 +184,7 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 #### Math 🖋
 - [Raciocínio lógico](https://github.com/filiptronicek/filiptronicek)
-  - Estrutura lógicas:
+  - Estrutura lógicas
   - Lógica de argumentação:
     - Analogias
     - Inferências
@@ -216,10 +216,28 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
     - funções de distribuiçâo
   
 
+
 #### Economy 👾
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-- [lizheming](https://github.com/lizheming/lizheming)
+- [Macroeconomia](https://github.com/filiptronicek/filiptronicek)
+  - Contas Nacionais
+  - Agregados Monetários
+  - Multiplicador Monetário:
+    - Criação de moedas
+    - Distruição de moedas
+  - Contas do sistema monetário
+  - Balanço de Pagamento
+- [Microeconomia](https://github.com/garimasingh128/garimasingh128)
+  - Estrutura de mercado:
+    - Fromas de organizaçâo da atividade econômica
+    - Papel dos preços
+    - Custo de oportunidade e fronteiras das possibilidades de produçâo
+  - Oferta e Demanda:
+    - Curva de indiferença
+    - Restrição orçamentária
+    - Equilíbrio do consumidor
+    - Efeitos preço, renda e substituição
+    - Curva de demanda
+    - Elasticidade da demanda
 
 
 ## Tools
