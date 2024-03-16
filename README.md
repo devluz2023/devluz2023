@@ -168,9 +168,19 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 
 #### Database 😃
-- [SGDBs](https://github.com/Raymo111/Raymo111)
-- [SQL](https://github.com/MartinHeinz/MartinHeinz)
-- [NOSQL](https://github.com/adamalston/adamalston)
+- [SGBDs SQL e NOSQL](https://github.com/Raymo111/Raymo111)
+  - Modelagem de dados]
+    - Relacional
+    - Multidimensional
+    - SQL
+    - PLSQL
+    - BI
+- [Inteligência de Negócio](https://github.com/Raymo111/Raymo111)
+  - DataWareshouse
+  - Datamart
+  - DataLake
+  - DataMesh
+
 
 #### It Management 🗒
 - [Kanban](https://github.com/filiptronicek/filiptronicek)
