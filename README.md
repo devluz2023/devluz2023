@@ -153,10 +153,12 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 - [Distributed Ledger Technology](https://github.com/ashbakernz/ashbakernz)
 
 
+
 #### Infraestructure 💫
-- [Conceitos de infraestrutura como código e automaç"ao de infraestrutura de TI](https://github.com/xcaq/xcaq)
-- [Docker](https://github.com/anuraghazra/anuraghazra)
-- [Kubernetes](https://github.com/anuraghazra/anuraghazra)
+- [Conceitos de infraestrutura como código e automação de infraestrutura de TI](https://github.com/xcaq/xcaq)   
+- [Docker, Kubernetes](https://github.com/xcaq/xcaq)
+   - Boas práticas para infraestrutura
+   - Orquestração de containers
 - [Serviços de Rede Microsoft Windows Server](https://github.com/anuraghazra/anuraghazra)
   - DNS
   - DHCP
@@ -164,7 +166,38 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
   - Autenticação
   - Certificados
   - Active Directory (AD)
-
+- [Monitoração, observabilidade e análise de sistemas](https://github.com/anuraghazra/anuraghazra)
+  - Nagios
+  - Grafana
+  - Prometheus
+  - Grafana
+  - ElaticSearch e Kibana
+  - Performance Monitoring (APM)
+- [Computer Network Protocol](https://github.com/anuraghazra/anuraghazra)
+  - Simple Mail Transfer Protocol (SMTP)
+  - Hypertext Transfer Protocol (HTTP)
+  - Hypertext Transfer Protocol (HTTPS)
+  - SSL/TLS
+  - Lightweight Directory Access Protocol (LDAP)
+  - Network File System (NFS)
+  - Server Message Block (SMB)
+- [Tolerância a falhas e continuidade de operação](https://github.com/anuraghazra/anuraghazra)
+- [Implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS)](https://github.com/anuraghazra/anuraghazra)
+- [Administração e gerenciamento de ambientes de virtualização](https://github.com/anuraghazra/anuraghazra)
+  - Vagrant
+  - Shell
+  - Powershell
+- [ Administração e operaçãode sistemas operacionais](https://github.com/anuraghazra/anuraghazra)
+  - Windows Server
+  - Linux
+- [Computer Network](https://github.com/anuraghazra/anuraghazra)
+  - LAN
+  - WAN
+  - SDN
+- [Devops](https://github.com/anuraghazra/anuraghazra)
+  - Puppet
+  - Ansible
+  
 
 
 #### Database 😃
