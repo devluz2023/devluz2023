@@ -64,12 +64,36 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 ## Categories
 
-#### Data Science 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-- [Brian Douglas](https://github.com/bdougie/bdougie)
-- [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
+#### Data Science 🤖
+- [Aprendizado de Máquina](https://github.com/abhisheknaiidu/abhisheknaiidu)
+ - Supervisionado
+ - Não Supervisionado
+ - Semi Supervisionado
+ - Por Reforço
+ - Por Transferência
+- [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
+- [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Qualidade de dados](https://github.com/sw-yx/sw-yx)
+- [Grandes Modelos de Linguagem (LLM)](https://github.com/sw-yx/sw-yx)
+- [IA Generativa](https://github.com/sw-yx/sw-yx)
+- [Redes Neurais](https://github.com/sw-yx/sw-yx)
+- [MLOPS](https://github.com/sw-yx/sw-yx)
+  - Gestão de código
+  - Treinamento
+  - Implantação
+  - Monitoramento
+  - Versionamento
+  - Automaçâo do ciclo de produção
+- [Governança e Ética na IA](https://github.com/sw-yx/sw-yx)
+  - Tranparência
+  - Responsabilidade
+  - Explicabilidade
+  - Privacidade
+  - Segurança
+  - Viés
+  
 
 #### Security 🚀
 - [Gestão de identidade e Acesso](https://github.com/timburgan/timburgan)
