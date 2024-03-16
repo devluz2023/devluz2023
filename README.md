@@ -67,11 +67,11 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 #### Data Science 🤖
 - [Aprendizado de Máquina](https://github.com/abhisheknaiidu/abhisheknaiidu)
- - Supervisionado
- - Não Supervisionado
- - Semi Supervisionado
- - Por Reforço
- - Por Transferência
+   - Supervisionado
+   - Não Supervisionado
+   - Semi Supervisionado
+   - Por Reforço
+   - Por Transferência
 - [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
 - [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
 - [Big Data](https://github.com/sw-yx/sw-yx)
