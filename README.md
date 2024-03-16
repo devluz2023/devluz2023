@@ -183,10 +183,38 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 
 #### Math 🖋
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-- [lizheming](https://github.com/lizheming/lizheming)
-
+- [Raciocínio lógico](https://github.com/filiptronicek/filiptronicek)
+  - Estrutura lógicas:
+  - Lógica de argumentação:
+    - Analogias
+    - Inferências
+    - Deduções
+    - Conclusões
+  - Lógica sentencial (ou proposicional):
+    - Proposições simples e compostas. 
+    - Tabelas-verdade
+    - Equivalências
+    - Leis de Morgan
+    - Problemas
+- [Estatística](https://github.com/garimasingh128/garimasingh128)
+  - Noções de estatśtica:
+    - Populaçâo e Amostra
+    - Histograma e curvas de frequência
+  - Medidas de posição:
+    - Media
+    - Moda
+    - Mediana
+    - Sepatrizes
+  - Medias de dispersão:
+    - Absoluta
+    - Relativa
+  - Probabilidade:
+    - Condicional
+    - independência
+  - Variáveis e funçôes:
+    - variavéis aleatória
+    - funções de distribuiçâo
+  
 
 #### Economy 👾
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
