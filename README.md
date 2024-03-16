@@ -35,6 +35,25 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<h1 align="center">Awesome GitHub Profile README
+<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<br>
+
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
@@ -65,42 +84,51 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 ## Categories
 
 #### Data Science 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-- [Brian Douglas](https://github.com/bdougie/bdougie)
-- [Shawn Wang](https://github.com/sw-yx/sw-yx)
-
+- [Aprendizado de Máquina](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
+- [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
+- [Big Data](https://github.com/sw-yx/sw-yx)
 
 #### Security 🚀
-- [Gestão de identidade](https://github.com/timburgan/timburgan)
-- [Gestâo de acesso](https://github.com/benjaminsampica/benjaminsampica)
-- [Autenticação](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Autorização](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Security Assertion Markup Language (SAML) ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [OAuth2  ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [OpenId Connect ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Privacidade de dados ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Segurança por padrão ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Tipos de Ataques ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Tipos de vulnerabilidades ](https://github.com/DoubleGremlin181/DoubleGremlin181)
+- [Gestão de identidade e Acesso](https://github.com/timburgan/timburgan)
+  - Gestâo de acesso
+  - Autenticação
+  - Autorização
+  - Security Assertion Markup Language (SAML) 
+  - OAuth2  
+  - OpenId Connect 
+- [Privacidade de dados e Segurança por padrão ](https://github.com/DoubleGremlin181/DoubleGremlin181)
+- [Principais tipos de ataques e vulnerabilidades.  ](https://github.com/DoubleGremlin181/DoubleGremlin181)
+- [Controles e testes de segurança para aplicações Web e Web Services ](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Controle de segurança ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Teste de segurança para web ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Teste de segurança web service ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Multiplos fatores de autenticação ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Firewall](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Intrusion Detection System (IDS)](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Intrusion Prevention System (IPS) ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Security Information and Event Management (SIEM) ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Proxy ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Identity Access Management (IAM) ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Privileged Access Management (PAM) ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Antivírus ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Antispam ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [ MITRE ATT&CK ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [CIS Controls ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [NIST CyberSecurity Framework (NIST CSF)](https://github.com/DoubleGremlin181/DoubleGremlin181)
+- [Multiplos fatores de autenticação (MFA).](https://github.com/DoubleGremlin181/DoubleGremlin181)
+- [ Soluções para Segurança](https://github.com/DoubleGremlin181/DoubleGremlin181)
+  - Firewall
+  - Intrusion Detection System (IDS)
+  - Intrusion Prevention System (IPS) 
+  - Security Information and Event Management (SIEM) 
+  - Proxy 
+  - Identity Access Management (IAM) 
+  - Privileged Access Management (PAM) 
+  - Antivŕus 
+  - Antispam 
+- [Frameworks de segurança da informação e segurança ](https://github.com/DoubleGremlin181/DoubleGremlin181)
+  - MITRE ATT&CK 
+  - CIS Controls 
+  - NIST CyberSecurity Framework (NIST CSF)
 - [Tratamento de Incidentes Cibernéticos ](https://github.com/DoubleGremlin181/DoubleGremlin181)
-- [Single Sigon ](https://github.com/DoubleGremlin181/DoubleGremlin181)
+
 - [Assinatura e certificação digital](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Criptografia ](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Proteção de dados em trânsito](https://github.com/DoubleGremlin181/DoubleGremlin181)
@@ -108,44 +136,45 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 - [Segurança em nuvens ](https://github.com/DoubleGremlin181/DoubleGremlin181)
 - [Segurança de contêineres ](https://github.com/DoubleGremlin181/DoubleGremlin181)
 
-
 #### Software Engineering 👨🏽‍💻
 - [Arquitetura de Sistemas Web](https://github.com/Thaiane/Thaiane)
-- [Rest Http](https://github.com/ashbakernz/ashbakernz)
-- [Rest Http 2](https://github.com/ashbakernz/ashbakernz)
-- [GRPC](https://github.com/ashbakernz/ashbakernz)
-- [Websockets](https://github.com/ashbakernz/ashbakernz)
-- [Tls](https://github.com/ashbakernz/ashbakernz)
-- [Servidores Proxy](https://github.com/ashbakernz/ashbakernz)
-- [Servidor cache](https://github.com/ashbakernz/ashbakernz)
-- [DNS](https://github.com/ashbakernz/ashbakernz)
-- [Balanceamento de carga](https://github.com/ashbakernz/ashbakernz)
-- [Tolerância a falhas](https://github.com/ashbakernz/ashbakernz)
-- [Escalabilidade](https://github.com/ashbakernz/ashbakernz)
-- [Sonarqube](https://github.com/ashbakernz/ashbakernz)
-- [Owasp](https://github.com/ashbakernz/ashbakernz)
-- [Jenkins](https://github.com/ashbakernz/ashbakernz)
-- [Azure Pipeline](https://github.com/ashbakernz/ashbakernz)
-- [Github actions](https://github.com/ashbakernz/ashbakernz)
-- [Testes Unitarios](https://github.com/ashbakernz/ashbakernz)
-- [Testes de Integracão](https://github.com/ashbakernz/ashbakernz)
-- [Testes Unitarios](https://github.com/ashbakernz/ashbakernz)
-- [TDD](https://github.com/ashbakernz/ashbakernz)
-- [BDD](https://github.com/ashbakernz/ashbakernz)
+  - Http
+  - Http 2
+  - GRPC
+  - Websockets
+  - Tls
+  - Servidores Proxy
+  - Servidor cache
+  - DNS
+  - Balanceamento de carga
+  - Tolerância a falhas
+  - Escalabilidade em sistema web
+- [Princípios e práticas de DevOps e DevSecOps](https://github.com/ThaianeThaiane)
+- [Técnicas de desenvolvimento seguro](https://github.com/ThaianeThaiane)
+- [Testes de software](https://github.com/ThaianeThaiane)
+  - Testes Unitarios]
+  - Testes de Integracão
+  - Testes Unitario
+  - TDD
+  - BDD
+- [Arquitetura Limpa](https://github.com/ThaianeThaiane)
 - [Microserviço](https://github.com/ashbakernz/ashbakernz)
 - [Kubernetes](https://github.com/ashbakernz/ashbakernz)
-- [Docker Swarm](https://github.com/ashbakernz/ashbakernz)
-- [Api Kongo](https://github.com/ashbakernz/ashbakernz)
+- [Nginx](https://github.com/ashbakernz/ashbakernz)
 - [Data Driven](https://github.com/ashbakernz/ashbakernz)
 - [Arquitetura MVC](https://github.com/ashbakernz/ashbakernz)
 - [Azure functions](https://github.com/ashbakernz/ashbakernz)
 - [AWS Lambda](https://github.com/ashbakernz/ashbakernz)
-- [UX](https://github.com/ashbakernz/ashbakernz)
-- [UI](https://github.com/ashbakernz/ashbakernz)
-- [Comunicação Assíncrona](https://github.com/ashbakernz/ashbakernz)
-- [Rest](https://github.com/ashbakernz/ashbakernz)
-- [GoF](https://github.com/ashbakernz/ashbakernz)
-- [Grasp](https://github.com/ashbakernz/ashbakernz)
+
+- [Práticas de UX e UI design](https://github.com/ashbakernz/ashbakernz)
+  - Ux
+  - UI Design
+- [Programação Assíncrona](https://github.com/ashbakernz/ashbakernz)
+- [Restfull e GraphQL](https://github.com/ashbakernz/ashbakernz)
+- [Web Services](https://github.com/ashbakernz/ashbakernz)
+- [Design Patterns](https://github.com/ashbakernz/ashbakernz)
+  - GoF
+  - Grasp
 - [Git](https://github.com/ashbakernz/ashbakernz)
 - [Python](https://github.com/ashbakernz/ashbakernz)
 - [Java](https://github.com/ashbakernz/ashbakernz)
@@ -154,9 +183,15 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 
 #### Infraestructure 💫
-- [Conceitos de infraestrutura como código e automaç"ao de infraestrutura de TI](https://github.com/xcaq/xcaq)
+- [Conceitos de infraestrutura como código e automação de infraestrutura de TI](https://github.com/xcaq/xcaq)
 - [Docker](https://github.com/anuraghazra/anuraghazra)
 - [Kubernetes](https://github.com/anuraghazra/anuraghazra)
+
+   
+- [Docker, Kubernetes](https://github.com/xcaq/xcaq)
+   - Boas práticas para infraestrutura
+   - Orquestração de containers
+
 - [Serviços de Rede Microsoft Windows Server](https://github.com/anuraghazra/anuraghazra)
   - DNS
   - DHCP
@@ -166,16 +201,18 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
   - Active Directory (AD)
 
 
+  
 
 #### Database 😃
-- [Raymond Li](https://github.com/Raymo111/Raymo111)
-- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
-- [Adam Alston](https://github.com/adamalston/adamalston)
+- [SGDBs](https://github.com/Raymo111/Raymo111)
+- [SQL](https://github.com/MartinHeinz/MartinHeinz)
+- [NOSQL](https://github.com/adamalston/adamalston)
 
 #### It Management 🗒
-- [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
-- [Garima Singh](https://github.com/garimasingh128/garimasingh128)
-
+- [Kanban] (https://github.com/filiptronicek/filiptronicek)
+- [Scrum](https://github.com/garimasingh128/garimasingh128)
+- [Governança de dados](https://github.com/garimasingh128/garimasingh128)
+- [ITIL V4](https://github.com/garimasingh128/garimasingh128)
 
 #### Bussiness 🎫
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -238,7 +275,6 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
     - Efeitos preço, renda e substituição
     - Curva de demanda
     - Elasticidade da demanda
-
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
@@ -311,6 +347,20 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 - ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
+
+## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+## Special Thanks 🙇
+- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 
 ## Contribute
 
