@@ -169,7 +169,7 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 #### Database 😃
 - [SGBDs SQL e NOSQL](https://github.com/Raymo111/Raymo111)
-  - Modelagem de dados]
+  - Modelagem de dados
     - Relacional
     - Multidimensional
     - SQL
@@ -180,7 +180,6 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
   - Datamart
   - DataLake
   - DataMesh
-
 
 #### It Management 🗒
 - [Kanban](https://github.com/filiptronicek/filiptronicek)
