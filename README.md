@@ -154,8 +154,17 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 
 #### Infraestructure 💫
-- [Kirill Feschenko](https://github.com/xcaq/xcaq)
-- [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Conceitos de infraestrutura como código e automaç"ao de infraestrutura de TI](https://github.com/xcaq/xcaq)
+- [Docker](https://github.com/anuraghazra/anuraghazra)
+- [Kubernetes](https://github.com/anuraghazra/anuraghazra)
+- [Serviços de Rede Microsoft Windows Server](https://github.com/anuraghazra/anuraghazra)
+  - DNS
+  - DHCP
+  - RADIUS
+  - Autenticação
+  - Certificados
+  - Active Directory (AD)
+
 
 
 #### Database 😃
