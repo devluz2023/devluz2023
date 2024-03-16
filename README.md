@@ -173,7 +173,7 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 - [NOSQL](https://github.com/adamalston/adamalston)
 
 #### It Management 🗒
-- [Kanban] (https://github.com/filiptronicek/filiptronicek)
+- [Kanban](https://github.com/filiptronicek/filiptronicek)
 - [Scrum](https://github.com/garimasingh128/garimasingh128)
 - [Governança de dados](https://github.com/garimasingh128/garimasingh128)
 - [ITIL V4](https://github.com/garimasingh128/garimasingh128)
