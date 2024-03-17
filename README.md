@@ -74,6 +74,26 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
    - Por Transferência
 - [Deep learning](https://github.com/thmsgbrt/thmsgbrt)
 - [Processamento de linguagem natural](https://github.com/bdougie/bdougie)
+  - Extração da idéia central de um texto
+  - Reconhecimento de tipos e gêneros textuais.
+  - Corretor Ortográfico
+  - Emprego de elementos de referenciação, substituição e repetição, de conectores e de
+outros elementos de sequenciação textual
+  - Emprego de tempos e modos verbais
+  - Domínio da estrutura morfossintática do período
+  - Emprego das classes de palavras
+  - Relações de coordenação entre orações e entre termos da oração
+  - Relações de subordinação entre orações e entre termos da oração
+  - Emprego dos sinais de pontuação
+  - Concordância verbal e nominal
+  - Regência verbal e nominal.
+  - Emprego do sinal indicativo de crase. 
+  - Colocação dos pronomes átonos. 
+  - Reescrita de frases e parágrafos do texto
+  - Significação das palavras
+  - Substituição de palavras ou de trechos de texto
+  - Reorganização da estrutura de orações e de períodos do texto
+  - Reescrita de textos de diferentes gêneros e níveis de formalidade.
 - [Big Data](https://github.com/sw-yx/sw-yx)
 - [Qualidade de dados](https://github.com/sw-yx/sw-yx)
 - [Grandes Modelos de Linguagem (LLM)](https://github.com/sw-yx/sw-yx)
