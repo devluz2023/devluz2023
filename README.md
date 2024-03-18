@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/devfaluz?logo=github&style=for-the-
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+
 
 </div>
 
