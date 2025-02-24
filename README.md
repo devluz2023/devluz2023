@@ -48,7 +48,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 ### Articles
 
-##### Useful Links
 - [Proposal for Improvement of Software Delivery with DevOps Read the full article on Medium](https://medium.com/@fabio.jdluz/proposta-de-melhoria-de-entrega-de-software-com-devops-be958e42668f)
 
 ### Socials
