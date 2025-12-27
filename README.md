@@ -153,7 +153,7 @@ Here are some of the skills and technologies I'm proficient in:
             Applied Crypto: .NET & Azure
         </a>
     </li>
- <li><a href="https://github.com/fchollet/deep-learning-with-python-notebooks/fork" target="_blank" rel="noreferrer">Deep Learning with Python Notebooks</a></li>
+ <li><a href="https://github.com/devluz2023/deep-learning-with-python-notebooks" target="_blank" rel="noreferrer">Deep Learning with Python Notebooks</a></li>
 
    
 </ul>
