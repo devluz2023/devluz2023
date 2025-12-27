@@ -52,9 +52,15 @@ Here are some of the skills and technologies I'm proficient in:
     Building Medallion Architectures on GitHub
 </a>
 
+<a href="https://github.com/devluz2023/practical-ml-vision-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+   Practical Machine Learning for Computer Vision
+</a>
+
 <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
    Practical Machine Learning for Computer Vision
 </a>
+
+
 
 
 
