@@ -46,6 +46,14 @@ Here are some of the skills and technologies I'm proficient in:
   </a>
 </p>
 
+### Forks
+<p align="left">
+<a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+    Building Medallion Architectures on GitHub
+</a>
+
+</p>
 ### Articles
 
 - [Proposal for Improvement of Software Delivery with DevOps Read the full article on Medium](https://medium.com/@fabio.jdluz/proposta-de-melhoria-de-entrega-de-software-com-devops-be958e42668f)
