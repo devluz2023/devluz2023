@@ -118,7 +118,6 @@ Here are some of the skills and technologies I'm proficient in:
             Practical Machine Learning for Computer Vision
         </a>
     </li>
-
     <li>
         <a href="https://github.com/devluz2023/delta-lake-definitive-guide" target="_blank" rel="noreferrer" title="Delta Lake Definitive Guide">
             Delta Lake Definitive Guide
