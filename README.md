@@ -63,6 +63,101 @@ Here are some of the skills and technologies I'm proficient in:
             Practical Machine Learning for Computer Vision
         </a>
     </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
 </ul>
 
 
