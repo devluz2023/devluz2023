@@ -159,6 +159,9 @@ Here are some of the skills and technologies I'm proficient in:
 <li>
         <a href="https://github.com/devluz2023/feature-engineering-book" target="_blank" rel="noreferrer">Feature Engineering Book</a>
     </li>
+     <li>
+        <a href="https://github.com/devluz2023/MLDesignPatterns" target="_blank" rel="noreferrer">ML Design Patterns</a>
+    </li>
    
 </ul>
 
