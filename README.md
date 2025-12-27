@@ -46,18 +46,8 @@ Here are some of the skills and technologies I'm proficient in:
   </a>
 </p>
 
-### Forks
-<ul align="left">
-    <li>
-        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
-            Building Medallion Architectures on GitHub
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/devluz2023/practical-ml-vision-book" target="_blank" rel="noreferrer" title="Practical Machine Learning for Computer Vision">
-            Practical Machine Learning for Computer Vision
-        </a>
-    </li>
+
+
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabio
 =============================================================================================================================
 
