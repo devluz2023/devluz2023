@@ -49,9 +49,14 @@ Here are some of the skills and technologies I'm proficient in:
 ### Forks
 <p align="left">
 <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
     Building Medallion Architectures on GitHub
 </a>
+
+<a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+   Practical Machine Learning for Computer Vision
+</a>
+
+
 
 </p>
 ### Articles
