@@ -47,19 +47,23 @@ Here are some of the skills and technologies I'm proficient in:
 </p>
 
 ### Forks
-<p align="left">
-1. <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
-    Building Medallion Architectures on GitHub
-</a>
-
-2. <a href="https://github.com/devluz2023/practical-ml-vision-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
-   Practical Machine Learning for Computer Vision
-</a>
-
-3. <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
-   Practical Machine Learning for Computer Vision
-</a>
-
+<ul align="left">
+    <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Building Medallion Architectures on GitHub
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/devluz2023/practical-ml-vision-book" target="_blank" rel="noreferrer" title="Practical Machine Learning for Computer Vision">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/devluz2023/building-medallion-architectures-book" target="_blank" rel="noreferrer" title="Building Medallion Architectures Book">
+            Practical Machine Learning for Computer Vision
+        </a>
+    </li>
+</ul>
 
 
 
