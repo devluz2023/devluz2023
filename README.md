@@ -165,7 +165,9 @@ Here are some of the skills and technologies I'm proficient in:
      <li>
         <a href="https://github.com/devluz2023/Machine-Learning-with-Spark" target="_blank" rel="noreferrer">Machine Learning with Spark</a>
     </li>
-
+    <li>
+      <a href="https://github.com/devluz2023/Automated-Machine-Learning-with-Microsoft-Azure" target="_blank" rel="noreferrer">Machine Learning with Microsoft Azure</a>
+    </li>
     
    
 </ul>
