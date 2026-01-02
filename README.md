@@ -168,6 +168,11 @@ Here are some of the skills and technologies I'm proficient in:
     <li>
       <a href="https://github.com/devluz2023/Automated-Machine-Learning-with-Microsoft-Azure" target="_blank" rel="noreferrer">Machine Learning with Microsoft Azure</a>
     </li>
+      <li>
+      <a href="https://github.com/devluz2023/llm-playbooks" target="_blank" rel="noreferrer">LLM Playbooks</a>
+    </li>
+
+
     
    
 </ul>
