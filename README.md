@@ -174,6 +174,11 @@ Here are some of the skills and technologies I'm proficient in:
        <li>
       <a href="https://github.com/devluz2023/Machine-Learning-Engineering-with-MLflow" target="_blank" rel="noreferrer">Machine Learning Engineering with MLflow</a>
     </li>
+     </li>
+       <li>
+      <a href="https://github.com/devluz2023/dsbook" target="_blank" rel="noreferrer">Effective Data Science Infrastructure book</a>
+    </li>
+
 
 
     
