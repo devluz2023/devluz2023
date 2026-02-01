@@ -130,6 +130,11 @@ Here are some of the skills and technologies I'm proficient in:
         </a>
     </li>
     <li>
+        <a href="https://github.com/devluz2023/Practical-Deep-Learning-at-Scale-with-MLFlow" target="_blank" rel="noreferrer" title="Practical Deep Learning at Scale with MLflow">
+            Practical Deep Learning at Scale with MLflow
+        </a>
+    </li>
+    <li>
         <a href="https://github.com/devluz2023/mathematical-methods-in-deep-learning-ipython" target="_blank" rel="noreferrer" title="Mathematical Methods in Deep Learning">
             Mathematical Methods in Deep Learning
         </a>
