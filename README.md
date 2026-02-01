@@ -94,6 +94,8 @@ Here are some of the skills and technologies I'm proficient in:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
+
+  
   
 </p>
 
@@ -107,6 +109,11 @@ Here are some of the skills and technologies I'm proficient in:
     <li>
         <a href="https://github.com/devluz2023/practical-ml-vision-book" target="_blank" rel="noreferrer" title="Practical Machine Learning for Computer Vision">
             Practical Machine Learning for Computer Vision
+        </a>
+    </li>  
+    <li>
+        <a href="https://github.com/devluz2023/BuildingApplicationsWithAIAgents" target="_blank" rel="noreferrer" title="Building Applications with AI Agents">
+           Building Applications with AI Agents
         </a>
     </li>
     <li>
